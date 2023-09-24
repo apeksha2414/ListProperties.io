@@ -1,0 +1,14 @@
+
+h1{
+    color: blue;
+}
+
+ul{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+ol{
+    /*list-style-image: url(./download.png);*/
+    list-style-position: outside;
+}
